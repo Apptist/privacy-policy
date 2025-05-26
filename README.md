@@ -1,2 +1,4 @@
-# index.html - 광고 없음
-# privacy-policy-ad.html - 애드몹 광고
+# index.html - Ads None
+# privacy-policy-ad.html - AdMob Ad
+# privacy-policy-user.html - User
+# privacy-policy-user-ad.html - User, AdMob Ad
