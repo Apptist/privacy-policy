@@ -1,1 +1,1 @@
-# privacy-policy-ad
+# privacy-policy
